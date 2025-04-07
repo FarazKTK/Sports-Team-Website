@@ -1,0 +1,51 @@
+@media screen and (max-width: 767px){
+    .navbar a{
+        font-size: 30px !important;
+    }
+    .navbar-toggler-icon{
+        border-color: #ddd !important;
+    }
+    .navbar-nav{
+        text-align: center !important;
+    }
+    .navbar-nav .nav-item .nav-link{
+        font-size: 28px !important;
+        border-bottom: 1px solid #1f1f1f !important;
+    }
+    .center-home-one{
+        text-align: center !important;
+        margin-left: 60px !important;
+        padding-top: 40xp !important;
+    }
+    .center-home-one h2{
+        font-size: 30px !important;
+    }
+    .center-home-one h1{
+        font-size: 80px !important;
+    }
+    .event-box-one{
+        margin-bottom: 10px !important;
+    }
+    #tuned-section{
+        padding-top: 40px !important;
+        padding-bottom: 40px !important;
+        text-align: center !important;
+    }
+    .tuned-one{
+        padding: 40px 15px !important;
+    }
+    .new-one{
+        text-align: center !important;
+        margin-bottom: 10px !important;
+    }
+    .footer-bottom-one li{
+        display: inline-block !important;
+        margin: 3px !important;
+    }
+    .footer-bottom-one{
+        text-align: center !important;
+    }
+    .footer-bottom-two{
+        text-align: center !important;
+    }
+}
